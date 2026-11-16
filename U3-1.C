@@ -17,9 +17,5 @@ void main()
 		{
 			printf("maximum value is:%.2f\n",num2);
 		}
-	else
-		{
-			printf("both number are equal.\n");
-		}
 	getch();
 }
